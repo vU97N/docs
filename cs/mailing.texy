@@ -13,6 +13,12 @@ Téměř každá aplikace na webu potřebuje odesílat e-maily, ať už newslett
 
 </div>
 
+Instalace:
+
+```
+composer require nette/mail
+```
+
 Vytvoření & odeslání e-mailu
 ============================
 

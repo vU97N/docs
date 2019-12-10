@@ -1,6 +1,12 @@
 Array Functions
 ***************
 
+Installation:
+
+```
+composer require nette/utils
+```
+
 Arrays
 ======
 
