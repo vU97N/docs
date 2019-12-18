@@ -47,7 +47,7 @@ Installation and Usage
 
 The best way how to install Latte is to [download a latest package](https://github.com/nette/latte/releases) or use a Composer:
 
-```
+```shell
 composer require latte/latte
 ```
 

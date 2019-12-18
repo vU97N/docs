@@ -49,7 +49,7 @@ Instalace a použití
 
 Nejlepší způsob, jak nainstalovat Latte je [stáhnout nejnovější balíček](https://github.com/nette/latte/releases) nebo použít Composer:
 
-```
+```shell
 composer require latte/latte
 ```
 
